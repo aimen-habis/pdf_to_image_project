@@ -1,6 +1,6 @@
 # 📄 PDF to Image Converter 🖼️
 
-This project is a **simple web application** that allows users to **upload a PDF file and convert it into an image** using Flask and PyMuPDF.
+This project is a **simple web application** that allows users to ***upload a PDF file and convert it into an image** using Flask and PyMuPDF.
 
 ## 🚀 How to Run the Project Locally
 
@@ -22,11 +22,11 @@ Copy
 http://127.0.0.1:5000/
 You can now upload a PDF file and get its first page converted into an image.
 
-🛠️ Technologies Used
+🛠️ Technologies Used 
 Python (Flask) - Backend server
 PyMuPDF - To convert PDF files into images
 HTML, CSS, JavaScript - Frontend UI
-📂 Project Structure
+📂 Project Structure 
 php
 Copy
 pdf_to_image_project/
