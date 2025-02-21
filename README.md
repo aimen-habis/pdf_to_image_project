@@ -13,7 +13,7 @@ pip install flask pymupdf
 Execute the following command in your terminal:
 
 
-bash
+bash 
 Copy
 python app.py
 Now, open your browser and go to:
