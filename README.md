@@ -6,7 +6,7 @@ This project is a **simple web application** that allows users to ***upload a PD
 
 ### 1️⃣ Install Dependencies
 Make sure you have Python installed, then install the required libraries: 
-
+ 
 ```bash
 pip install flask pymupdf
 
