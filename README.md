@@ -12,7 +12,7 @@ pip install flask pymupdf
 
 Execute the following command in your terminal:
 
-
+ 
 bash 
 Copy
 python app.py
