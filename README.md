@@ -8,7 +8,7 @@ This project is a **simple web application** that allows users to ***upload a PD
 Make sure you have Python installed, then install the required libraries: 
  
 ```bash
-pip install flask pymupdf 
+pip install flask pymupdf  
 
 Execute the following command in your terminal:
 
